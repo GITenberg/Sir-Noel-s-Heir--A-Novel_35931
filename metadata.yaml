@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1074
     wikipedia: http://en.wikipedia.org/wiki/May_Agnes_Fleming
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35931#Sir-Noel-s-Heir--A-Novel
 gutenberg_issued: '2011-04-22'
 gutenberg_type: Text
 identifiers:
